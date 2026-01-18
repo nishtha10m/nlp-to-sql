@@ -140,24 +140,9 @@ streamlit run app.py
 
 ---
 
-## 🎤 Why This Project?
-
-This project demonstrates:
-
-✔ natural language understanding  
-✔ analytical & business reasoning  
-✔ solution engineering mindset  
-✔ debugging & transparency (SQL shown)  
-✔ user-focused tooling  
-✔ data insights workflow  
-
----
-
 ## 👤 Author
 
 **Nishtha Mendiratta**  
-B.Tech Computer Science (Data Science)  
-Passionate about data, analytics, tooling & business problem solving.  
 
 ---
 
