@@ -105,19 +105,6 @@ Result Table
 
 ---
 
-## 📁 Dataset Example (E-Commerce)
-
-Used the **Online Retail (E-Commerce)** dataset from Kaggle:  
-https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset
-
-Sample columns:
-
-```
-InvoiceNo, Description, Quantity, UnitPrice, CustomerID, Country, InvoiceDate
-```
-
----
-
 ## 🔍 How It Works
 
 1. User uploads CSV file  
